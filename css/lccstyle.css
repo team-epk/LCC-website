@@ -675,12 +675,12 @@ a[href^="mailto:"]
 /*############################################################*/
 
 /* styling for grantees table */
-.grantees_main {
+/* .grantees_main {
   grid-column-start: 2;
   grid-column-end: 4;
   grid-row-start: 2;
   grid-row-end: 5;
-}
+} */
 
 /* styling for events calendar */
 .events_main {
@@ -833,3 +833,59 @@ div#senseOfPlace2021 {
     text-align: center;
     /* border: 1px solid #fff; */
 }
+
+
+/* 2022 grantees Google table export styling */
+
+#LCC_2022_Grantees {
+  text-align: center;
+  margin-top: 25px;
+  width: 100%;
+  margin-bottom: 25px;
+
+}
+.grantees_main {
+  grid-column-start: 1;
+  grid-column-end: 5;
+  grid-row-start: 2;
+  grid-row-end: 5;
+  margin: auto;
+  width: 80%;
+}
+
+/* .grantees table {
+  width: 90%;
+
+} */
+
+.grantees  {
+	border-collapse: collapse;
+	border-spacing:0;
+  width:100%;
+}
+.grantees td {
+	font-family:Arial, sans-serif;
+	font-size:18px;
+	padding:15px 5px;border-style:solid;
+	border-width:1px;
+	overflow:hidden;
+	word-break:normal;
+  width: 50%;
+}
+.grantees th {
+	font-family:Arial, sans-serif;
+	font-size:18px;
+	font-weight:normal;
+	padding:15px 5px;
+	border-style:solid;
+	border-width:1px;
+	overflow:hidden;
+	word-break:normal;
+}
+.grantees .title{background-color:#ffce93; font-family:Oswald, sans-serif; font-size: 24pt; padding: 25px;}
+.grantees .grantee-name{ vertical-align:top; }
+.grantees .grantee-project { vertical-align: top; }
+.grantees .odd-row { background-color: #ffffff; }
+.grantees td.column-title { background-color: #FFD666; font-family:Oswald, sans-serif; font-size: 18pt;}
+.grantees .even-row { background-color: #F3F3F3; }
+.grantees .table-bottom-row {background-color:#ffce93; padding: 25px; font-family:Oswald, sans-serif; font-size: 18pt; letter-spacing: .2rem;}

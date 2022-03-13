@@ -1,0 +1,60 @@
+<table class="grantees">
+  <tr>
+    <th class="title" colspan="4">202X Littleton Cultural Council Grantees</th>
+  </tr>
+  <!--headers for each column-->
+  <tr>
+    <td class="column-title" colspan="2">Grantee</td>
+    <td class="column-title" colspan="2">Project</td>
+  </tr>
+
+<!--the grantees and projects begin here-->
+  <tr class="odd-row">
+    <!--sometimes the link is to the project, rather than the grantee, and sometimes both have links-->
+    <!--add or remove the <a href="URL"> tags as needed-->
+    <!--I've only put it on grantee for now because those had been the majority of links-->
+    <td class="grantee-name" colspan="2"><a href="">GRANTEE</a></td>
+    <td class="grantee-project" colspan="2">PROJECT</td>
+  </tr>
+  <tr class="even-row">
+    <td class="grantee-name" colspan="2"><a href="">GRANTEE</a></td>
+    <td class="grantee-project" colspan="2">PROJECT</td>
+  </tr>
+
+  <tr class="odd-row">
+    <td class="grantee-name" colspan="2"><a href="">GRANTEE</a></td>
+    <td class="grantee-project" colspan="2">PROJECT</td>
+  </tr>
+  <tr class="even-row">
+    <td class="grantee-name" colspan="2"><a href="">GRANTEE</a></td>
+    <td class="grantee-project" colspan="2">PROJECT</td>
+  </tr>
+
+  <tr class="odd-row">
+    <td class="grantee-name" colspan="2"><a href="">GRANTEE</a></td>
+    <td class="grantee-project" colspan="2">PROJECT</td>
+  </tr>
+  <tr class="even-row">
+    <td class="grantee-name" colspan="2"><a href="">GRANTEE</a></td>
+    <td class="grantee-project" colspan="2">PROJECT</td>
+  </tr>
+
+  <tr class="odd-row">
+    <td class="grantee-name" colspan="2"><a href="">GRANTEE</a></td>
+    <td class="grantee-project" colspan="2">PROJECT</td>
+  </tr>
+  <tr class="even-row">
+    <td class="grantee-name" colspan="2"><a href="">GRANTEE</a></td>
+    <td class="grantee-project" colspan="2">PROJECT</td>
+  </tr>
+
+  <tr class="odd-row">
+    <td class="grantee-name" colspan="2"><a href="">GRANTEE</a></td>
+    <td class="grantee-project" colspan="2">PROJECT</td>
+  </tr>
+  <tr class="even-row">
+    <td class="grantee-name" colspan="2"><a href="">GRANTEE</a></td>
+    <td class="grantee-project" colspan="2">PROJECT</td>
+  </tr>
+
+</table>
