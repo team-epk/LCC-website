@@ -746,7 +746,7 @@ h1.calendar:hover {
   border-color: #ffffff;
 }
 
-div#senseOfPlace2021 {
+.eventPhotos {
   font-family: "Open Sans";
   /* font-size: 1.2em; */
   color: white;
@@ -764,7 +764,10 @@ div#senseOfPlace2021 {
   border-style: solid;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 30px;
 }
+
+
 
 /*##################*/
 /*footer, obviously*/
