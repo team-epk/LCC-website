@@ -17,54 +17,58 @@
 <!--Jeanne-->
     <div class="bio" id="jeanne"><h2>JEANNE BRACKEN</h2>
       <img src="img/Jeanne.jpg">
-        <p>Jeanne is a real go-getter! A freelance writer, historian, poet and humorist, she was for years a local columnist. Oh, and did we mention she's a retired reference librarian? And the Cultural Council chair?<br />
-          <a href="mailto:jeanne@littletonculturalcouncil.org">jeanne@littletonculturalcouncil.org</a></p>
+        <p>Jeanne is a real go-getter! A freelance writer, historian, poet and humorist, she was for years a local columnist. Oh, and did we mention she's a retired reference librarian? What other secrets lie within?</p>
+        <div class="email"><a href="mailto:jeanne@littletonculturalcouncil.org">jeanne@littletonculturalcouncil.org</a></div>
     </div>
 <!--Katie-->
   <div class="bio" id="katie"><h2>KATIE BONNER</h2>
     <img src="img/katie.jpg">
-      <p>Katie has worked with the PTA since 2007 to bring a variety of cultural events to Littleton schools. She is the President of Littleton Robotics.<br />
-      <br /><a href="mailto:katie@littletonculturalcouncil.org">katie@littletonculturalcouncil.org</a></p>
+      <p>Katie has worked with the PTA since 2007 to bring a variety of cultural events to Littleton schools. She is the President of Littleton Robotics.</p>
+    <br />
+      <div class="email"><a href="mailto:katie@littletonculturalcouncil.org">katie@littletonculturalcouncil.org</a></div>
   </div>
   <!--Kerry-->
     <div class="bio" id="kerry"><h2>KERRY DONAHUE</h2>
       <img src="img/kerry.jpg">
-      <p>Kerry is a 12 year Littleton resident with 2 sons in the schools. She's a passionate theatre fan and supporter and served on The Cannon Theatre Board for several years.<br />
-      <br /><a href="mailto:kerry@littletonculturalcouncil.org">kerry@littletonculturalcouncil.org</a></p>
+      <p>Kerry is a 12 year Littleton resident with 2 sons in the schools. She's a passionate theatre fan and supporter and served on The Cannon Theatre Board for several years.</p>
+      <div class="email"><a href="mailto:kerry@littletonculturalcouncil.org">kerry@littletonculturalcouncil.org</a></div>
     </div>
     <!--Erik-->
       <div class="bio" id="erik"><h2>ERIK P. KRAFT</h2>
           <img src="img/erik.jpg">
-            <p>Erik has an MFA in Writing and a Master's in Dramatic Arts.  He has published several children's books which he also illustrated.<br />
-              <br /><a href="mailto:erik@littletonculturalcouncil.org">erik@littletonculturalcouncil.org</a></p>
+            <p>Erik has an MFA in Writing and a Master's in Dramatic Arts.  He has published several children's books which he also illustrated.</p>
+            <br />
+              <div class="email"><a href="mailto:erik@littletonculturalcouncil.org">erik@littletonculturalcouncil.org</a></div>
       </div>
 <!--Kym-->
   <div class="bio" id="kym"><h2>KYMBERLEE A. ALBERTELLI</h2>
       <img src="img/kym.jpg">
       <p>Kymberlee is an interior design major.
-        <br />She has spearheaded Square 1 Art and other fundraisers while volunteering with the art teacher to get art shows up and running.<br />
-        <br /><a href="mailto:kymberlee@littletonculturalcouncil.org">kymberlee@littletonculturalcouncil.org</a></p>
+        <br />She has spearheaded Square 1 Art and other fundraisers while volunteering with the art teacher to get art shows up and running.</p>
+      <div class="email"><a href="mailto:kymberlee@littletonculturalcouncil.org">kymberlee@littletonculturalcouncil.org</a></div>
     </div>
 <!--Julie-->
   <div class="bio" id="Julie"><h2>JULIE BAKER</h2>
     <img src="img/julie.jpg">
-    <p>Julie has lived in Littleton since 2007 and is excited to help supports the arts in our community. She is a visual arts educator and educational leader in a nearby town. <br />
-      <br /><a href="mailto:julie@littletonculturalcouncil.org">julie@littletonculturalcouncil.org</a></p>
+    <p>Julie has lived in Littleton since 2007 and is excited to help supports the arts in our community. She is a visual arts educator and educational leader in a nearby town.</p>
+      <br />
+      <div class="email"><a href="mailto:julie@littletonculturalcouncil.org">julie@littletonculturalcouncil.org</a></div>
   </div>
-<!--Emily-->
-<div class="bio" id="emily"><h2>EMILY GIDDINGS</h2>
-  <img src="img/emily.jpg">
-  <p>Emily is a newer resident of Littleton and high school social studies teacher. She's worked in museums and is excited to support cultural programs in our community.<br />
-  <br /><a href="mailto:emily@littletonculturalcouncil.org" id="email">emily@littletonculturalcouncil.org</a></p>
-</div><!--end of emily-->
-<!-- now back to our regularly-scheduled website -->
-<!--Goo-->
-        <div class="bio" id="goo"><h2>GOO NEWMAN</h2>
-          <img src="img/goo.jpg">
-          <p>Goo has lived in Littleton for 18 years. She lives with her husband Dan and their three children.<br />
-          <br /><a href="mailto:goo@littletonculturalcouncil.org" id="email">goo@littletonculturalcouncil.org</a></p>
-        </div><!--end of Goo-->
+<!--Ray-->
+<div class="bio" id="ray"><h2>RAY NASH</h2>
+  <img src="img/ray.jpg">
+  <p>Ray has lived in Littleton since 2015 and enjoys supporting his local community. He feels strongly about the arts and culture, and supporting local organizations.</p>
+  <br />
+  <div class="email"><a href="mailto:ray@littletonculturalcouncil.org" id="email">ray@littletonculturalcouncil.org</a></div>
+</div><!--end of Ray-->
+<!--Kiki-->
+        <div class="bio" id="kiki"><h2>KRISTEN "KIKI" DONAHUE</h2>
+          <img src="img/kiki.jpg">
+          <p>KiKi lives in Littleton with her husband and two children, she and her husband are both professional musicians, who are passionate about the arts, theater, and culture. She is excited to help support the arts in her community!</p>
+          <div class="email"><a href="mailto:kiki@littletonculturalcouncil.org" id="email">kiki@littletonculturalcouncil.org</a></div>
+        </div><!--end of KiKi-->
         </div><!--end of about us grid container-->
+        <!-- now back to our regularly-scheduled website -->
   </div><!--end of main-->
 <!--begin footer-->
         <div class="footer">
